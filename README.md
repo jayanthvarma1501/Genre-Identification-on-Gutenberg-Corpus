@@ -1,3 +1,3 @@
 # Genre-Identification-on-Gutenberg-Corpus
 
-You can dowload the dataset from here "https://dke.ovgu.de/findke/en/Research/Data+Sets-p-1140.html"
+The dataset can be dowloaded from this link "https://dke.ovgu.de/findke/en/Research/Data+Sets-p-1140.html"
